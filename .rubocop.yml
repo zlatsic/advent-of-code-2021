@@ -1,0 +1,6 @@
+Style/FrozenStringLiteralComment:
+  Enabled: false
+Lint/AmbiguousBlockAssociation:
+  Enabled: false
+AllCops:
+  TargetRubyVersion: 3.0.2
